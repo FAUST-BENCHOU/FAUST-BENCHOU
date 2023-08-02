@@ -1,14 +1,29 @@
 ![](assets/Bottom_up.svg)
 
+<!--   my-icons -->
+<p align="center" style="display: flex; align-items: center; justify-content: center;">
+    <a href="https://github.com/FAUST-BENCHOU/FAUST-BENCHOU"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Java-8-yellow"></a>
+    <img src="https://img.shields.io/github/last-commit/FAUST-BENCHOU/FAUST-BENCHOU" alt="GitHub last commit (by committer)"/>
+  <img src="https://img.shields.io/github/followers/FAUST-BENCHOU?logo=github" alt="GitHub followers"/>
+  <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/creativity-8A2BE2"></a>
+</p>
 
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+FAUST-BENCHOU;+Welcome+to+My+Profile!;Always+looking+for+creativity!;)](https://git.io/typing-svg)
+### 📫 How to Reach me:
+<p align="left">
+<a href="https://twitter.com/BenChou566153" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
+<a href="2319109590@qq.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="benchou2252543@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/QQ-00AFF0?style=for-the-badge&logo=qq&logoColor=white" /></a>
+
+</p>
 
 
 <!--   my-header-img -->
 ![](./src/header_.png)
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+FAUST-BENCHOU;+Welcome+to+My+Profile!;Always+looking+for+creativity!;)](https://git.io/typing-svg)
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity:
 
