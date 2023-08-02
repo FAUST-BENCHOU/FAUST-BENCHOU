@@ -9,15 +9,6 @@
   <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/creativity-8A2BE2"></a>
 </p>
 
-### 📫 How to Reach me:
-<p align="left">
-<a href="https://twitter.com/BenChou566153" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="2319109590@qq.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="benchou2252543@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/QQ-00AFF0?style=for-the-badge&logo=qq&logoColor=white" /></a>
-
-</p>
-
-
 <!--   my-header-img -->
 ![](./src/header_.png)
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
@@ -42,26 +33,36 @@
 | **CI / CD**                                     |  [![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white)](https://github.com/BEPb/BEPb) [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/BEPb/BEPb)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | **Databases**                                   | <img alt="MySQL" src="https://camo.githubusercontent.com/e863bc79abf7a53150665ce9eb1a93f4fb6183af46bc3fb345ee5562736eb23c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d2532333030662e7376673f6c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&amp;logoColor=white" style="max-width: 100%;">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | **OS**                                          | ![centos](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white) ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-| **Tools & Platform**                          | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+| **Tools & Platform**                          | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+  
+### 📫 How to Reach me:
+<p align="left">
+ <a href="2319109590@qq.com" target="blank"><img align="center" src="/assets/QQ.svg" alt="qq" height="30" width="30" /></a>
+<a href="2252543@tongji.edu.cn" target="blank"><img align="center" src="/assets/tongji.svg" height="30" width="30"/></a>   
+<a href="2319109590@qq.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="https://twitter.com/BenChou566153" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
+</p>                                                                                                                                                                
 
+  </br>
 <!--  2d history skills -->
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=FAUST-BENCHOU" width="auto"></img>
 
-#### Thanks for visiting :heart:
+### :heart: Thanks for visiting 
 
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/FAUST-BENCHOU/count.svg">  
 
-counting of visitors to this page in this section started from July 31, 2023
+counting of visitors to this page in this section started from July 31, 2023 
+</br>
 <a href="https://info.flagcounter.com/e0ZS"><img src="https://s01.flagcounter.com/countxl/e0ZS/bg_FFFFFF/txt_000000/border_50C0CC/columns_7/maxflags_60/viewers_0/labels_1/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
-
-### Profile Views
+</br>
+### 🎉 Profile Views
 counting of visitors to this page in this section started from July 31, 2023
 
 ![](https://count.getloli.com/get/@FAUST-BENCHOU.github.readme)
 </br>
 
-### My School 
+### 🏫 My Home
 ```geojson
 {
  "type": "FeatureCollection",
