@@ -39,7 +39,7 @@
 <p align="left">
  <a href="2319109590@qq.com" target="blank"><img align="center" src="/assets/QQ.svg" alt="qq" height="30" width="30" /></a>
 <a href="2252543@tongji.edu.cn" target="blank"><img align="center" src="/assets/tongji.svg" height="30" width="30"/></a>   
-<a href="2319109590@qq.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="benchou2252543@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 <a href="https://twitter.com/BenChou566153" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
 </p>                                                                                                                                                                
 
