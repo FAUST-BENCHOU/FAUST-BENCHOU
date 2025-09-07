@@ -29,6 +29,13 @@
 
 ---
 
+## 🌟 Current Status
+
+- **Casbin Community 2025 Rising Star Intern**  
+  I am currently contributing to the Casbin community as a 2025 intern. Check out the [Casbin Community](https://casbin.org) for more information.
+
+---
+
 ## 🏅 Certificates & Awards
 
 - Intermediate Software Designer (China Soft Exam)  
