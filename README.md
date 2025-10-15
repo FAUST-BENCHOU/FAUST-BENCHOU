@@ -29,23 +29,6 @@
 
 ---
 
-## 🌟 Current Status
-
-- **Casbin Community 2025 Rising Star Intern**  
-  I am currently contributing to the Casbin community as a 2025 intern. Check out the [Casbin Community](https://casbin.org) for more information.
-
----
-
-## 🏅 Certificates & Awards
-
-- Intermediate Software Designer (China Soft Exam)  
-- *YunDianZhiQian* Software Copyright (ID: 2025SR0860037, First Holder)  
-- Global Campus AI Algorithm Elite Challenge – **National 1st Prize** (Team Leader)  
-- National AI Application Scenario Innovation Contest – **2nd Prize** (Team Leader)  
-- 2024 Huawei Developer Contest – **3rd Prize** (Team Leader)  
-
----
-
 ## 📈 GitHub Analytics
 
 <p align="center">
@@ -74,4 +57,4 @@
 
 ## 📫 Contact
 
-- Email: **2252543@tongji.edu.cn**
+- Email: **2319109590@qq.com**
