@@ -36,10 +36,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FAUST-BENCHOU&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FAUST-BENCHOU&theme=onedark&no-frame=true&row=1&column=6" alt="trophy" />
 </p>
 
