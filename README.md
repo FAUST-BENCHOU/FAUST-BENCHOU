@@ -30,12 +30,8 @@
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats-tawny.vercel.app/api?username=FAUST-BENCHOU&show_icons=true&rank_icon=github&theme=tokyonight" alt="stats" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=FAUST-BENCHOU&theme=onedark&no-frame=true&row=1&column=6" alt="trophy" />
-</p>
+<img src="https://github-readme-stats-tawny.vercel.app/api?username=FAUST-BENCHOU&show_icons=true&rank_icon=github&theme=tokyonight" alt="stats" />
+<img src="https://github-profile-trophy-kannan.vercel.app/?username=FAUST-BENCHOU&theme=onedark&no-frame=true&row=1&column=6" alt="trophy" />
 
 ---
 
