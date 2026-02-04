@@ -27,9 +27,6 @@
 <p align="center">
 <img src="https://github-readme-stats-tawny.vercel.app/api?username=FAUST-BENCHOU&show_icons=true&rank_icon=github&theme=tokyonight" alt="stats" />
 <img src="https://github-profile-trophy-kannan.vercel.app/?username=FAUST-BENCHOU&theme=onedark&no-frame=true&row=1&column=6" alt="trophy" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FAUST-BENCHOU&repo=volcano&theme=tokyonight" alt="GitHub Pull Requests" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FAUST-BENCHOU&repo=karmada&theme=tokyonight" alt="GitHub Pull Requests" />
-
 </p>
 
 ---
