@@ -9,13 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FAUST-BENCHOU&label=Profile%20Views&style=flat" alt="views" />
   <a href="https://github.com/FAUST-BENCHOU?tab=followers"><img src="https://img.shields.io/github/followers/FAUST-BENCHOU?style=flat" alt="followers"></a>
-  <a href="https://github.com/FAUST-BENCHOU"><img src="https://img.shields.io/github/stars/FAUST-BENCHOU?style=flat" alt="stars"></a>
 </p>
-
-<h1 align="center">👋 Hi, I'm FAUST-BENCHOU</h1>
-
----
-## 🧑‍🔬 Tech Interests(LLM & K8s)
 
 - **Cloud-native Ecosystems**: Kubernetes, Helm, KubeEdge, Docker, Prometheus
 - **AI Infrastructure**: Large Language Models (LLM), Model Serving, vLLM
