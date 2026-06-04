@@ -19,9 +19,7 @@
 <img src="https://github-readme-stats-tawny.vercel.app/api?username=FAUST-BENCHOU&show_icons=true&rank_icon=github&theme=tokyonight" alt="stats" />
 </p>
 
----
 
-## 🧩 Contributions
 
 <p align="center">
   <img src="https://ghchart.rshah.org/FAUST-BENCHOU" alt="GitHub contribution chart" />
