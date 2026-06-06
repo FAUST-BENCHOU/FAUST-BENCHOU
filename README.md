@@ -1,7 +1,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/FAUST-BENCHOU">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=850&lines=FAUST-BENCHOU;Cloud-Native+%7C+LLM+Infra+%7C+Backend;Go+%7C+Python+%7C+Kubernetes+%7C+KubeEdge+%7C+vLLM+%7C+Prometheus" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=850&lines=FAUST-BENCHOU;Cloud-Native+%7C+AI Infra+%7C+Backend;Go+%7C+Python+%7C+Kubernetes+%7C+KubeEdge+%7C+vLLM+%7C+Prometheus" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,9 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=FAUST-BENCHOU&label=Profile%20Views&style=flat" alt="views" />
   <a href="https://github.com/FAUST-BENCHOU?tab=followers"><img src="https://img.shields.io/github/followers/FAUST-BENCHOU?style=flat" alt="followers"></a>
 </p>
-
-- **AI Infrastructure**: Large Language Models (LLM), Model Serving, vLLM
-
 <p align="center">
 <img src="https://github-readme-stats-tawny.vercel.app/api?username=FAUST-BENCHOU&show_icons=true&rank_icon=github&theme=tokyonight" alt="stats" />
 </p>
