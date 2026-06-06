@@ -11,9 +11,7 @@
   <a href="https://github.com/FAUST-BENCHOU?tab=followers"><img src="https://img.shields.io/github/followers/FAUST-BENCHOU?style=flat" alt="followers"></a>
 </p>
 
-- **Cloud-native Ecosystems**: Kubernetes, Helm, KubeEdge, Docker, Prometheus
 - **AI Infrastructure**: Large Language Models (LLM), Model Serving, vLLM
-- **Backend Development**: Go, Python, Databases, Microservices Architecture
 
 <p align="center">
 <img src="https://github-readme-stats-tawny.vercel.app/api?username=FAUST-BENCHOU&show_icons=true&rank_icon=github&theme=tokyonight" alt="stats" />
